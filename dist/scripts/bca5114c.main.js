@@ -1,0 +1,1 @@
+console.log("'Allo 'Allo!"),$(document).ready(function(){$(".flagButton, .flagExtender").on("click",function(){$(".flagExtender").toggle(300),$(".flagButton").toggle(300)})});
